@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @Yazzyk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 我是一名来自中国的Golang开发工程师
 
-<!---
-PaleBlueYk/PaleBlueYk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazzyk)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazzyk&show_icons=true&theme=vue)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazzyk&layout=compact)
